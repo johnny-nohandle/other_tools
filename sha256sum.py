@@ -16,7 +16,7 @@ def main():
         exit(0)
     (scriptname, filename) = argv
     sha256filehash(filename)
-    return 0
+
 
 if __name__ == '__main__':
         main()
